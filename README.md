@@ -15,7 +15,7 @@ Please review the [CS253 Style Guide](https://docs.google.com/document/d/1zKIpNf
 ## Lab Warmup - Service Station
 ### Problem Description
 <br />
-1. Prompt the user for an automobile service. Each service type is composed of two strings. Output the user's input.
+1. Prompt the user for an automobile service. Each service type is composed of two words and can be processed as either two separate strings or as a single string (see scanf manpage). Output the user's input.
 <br />
 
 ```
